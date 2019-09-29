@@ -1,102 +1,102 @@
 {
-        vol: "Vol I, Sep '19",
-        geeting: {
-            label: 'Greetings, Industries Hyderabad Ohana!',
-            description:
-                'We are delighted to present the first volume of Industries Cares newsletter! This volume presents a recap of Industries VTO events and a glimpse of what’s to come!'
+        "vol": "Vol I, Sep '19",
+        "geeting": {
+            "label": "Greetings, Industries Hyderabad Ohana!",
+            "description":
+                "We are delighted to present the first volume of Industries Cares newsletter! This volume presents a recap of Industries VTO events and a glimpse of what’s to come!"
         },
-        sections: [
+        "sections": [
             {
-                title: 'What happened in the past few months?',
-                metrics: [
+                "title": "What happened in the past few months?",
+                "metrics": [
                     {
-                        value: '227+',
-                        label: 'Hr Volunteered'
+                        "value": "227+",
+                        "label": "Hr Volunteered"
                     },
                     {
-                        value: '$1000',
-                        label: 'Raised'
+                        "value": "$1000",
+                        "label": "Raised"
                     },
                     {
-                        value: '120+',
-                        label: 'Kids Impacted'
+                        "value": "120+",
+                        "label": "Kids Impacted"
                     }
                 ],
-                activities: [
+                "activities": [
                     {
-                        imgSrc: '/assets/1521203083Tree.jpg',
-                        title: 'Tree Plantation',
-                        description:
-                            'Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum',
-                        link: {
-                            label: 'Read More',
-                            url: '#'
+                        "imgSrc": "/assets/1521203083Tree.jpg",
+                        "title": "Tree Plantation",
+                        "description":
+                            "Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum",
+                        "link": {
+                            "label": "Read More",
+                            "url": "#"
                         }
                     },
                     {
-                        imgSrc: '/assets/Samsung_Smart_Class_picture.jpeg',
-                        title: 'Computer Classes',
-                        description:
-                            'Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum',
-                        link: {
-                            label: 'Sign Up',
-                            url: '#'
+                        "imgSrc": "/assets/Samsung_Smart_Class_picture.jpeg",
+                        "title": "Computer Classes",
+                        "description":
+                            "Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum",
+                        "link": {
+                            "label": "Sign Up",
+                            "url": "#"
                         }
                     },
                     {
-                        imgSrc: '/assets/hands_in.ts_177387006.jpg',
-                        title: 'Donation Drive',
-                        description:
-                            'Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum',
-                        link: {
-                            label: 'Read More',
-                            url: '#'
+                        "imgSrc": "/assets/hands_in.ts_177387006.jpg",
+                        "title": "Donation Drive",
+                        "description":
+                            "Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum",
+                        "link": {
+                            "label": "Read More",
+                            "url": "#"
                         }
                     }
                 ],
-                action: {
-                    description: 'Want to see more pictures of these events?',
-                    label: 'View on Drive',
-                    url: '#'
+                "action": {
+                    "description": "Want to see more pictures of these events?",
+                    "label": "View on Drive",
+                    "url": "#"
                 }
             },
             {
-                title: 'What are we looking at ahead?',
-                activities: [
+                "title": "What are we looking at ahead?",
+                "activities": [
                     {
-                        imgSrc: '/assets/00-e1498446216258.jpg',
-                        title: 'The Path Ahead',
-                        description:
-                            'Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum'
+                        "imgSrc": "/assets/00-e1498446216258.jpg",
+                        "title": "The Path Ahead",
+                        "description":
+                            "Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum"
                     },
                     {
-                        imgSrc: '/assets/careers-header.jpg',
-                        title: 'Career Counselling',
-                        description:
-                            'Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum'
+                        "imgSrc": "/assets/careers-header.jpg",
+                        "title": "Career Counselling",
+                        "description":
+                            "Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum"
                     },
                     {
-                        imgSrc: '/assets/Students.jpg',
-                        title: 'Sports Activities',
-                        description:
-                            'Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum'
+                        "imgSrc": "/assets/Students.jpg",
+                        "title": "Sports Activities",
+                        "description":
+                            "Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum"
                     }
                 ],
-                action: {
-                    description: 'Interested in Volunteering for one of these?',
-                    label: 'Sign Up',
-                    url: '#'
+                "action": {
+                    "description": "Interested in Volunteering for one of these?",
+                    "label": "Sign Up",
+                    "url": "#"
                 }
             }
         ],
-        themeImgSrc: '/resources/trail-bg.png',
-        footer: {
-            title: 'Interested in volunteering? Got questions?',
-            link: {
-                label: '#TakeItToChatter!',
-                url: '#'
+        "themeImgSrc": "/resources/trail-bg.png",
+        "footer": {
+            "title": "Interested in volunteering? Got questions?",
+            "link: {
+                "label": "#TakeItToChatter!",
+                "url": "#"
             },
-            description:
-                'If you haven’t already, be sure to join the group and set your notification preference to Every Post, so you never miss out on any updates.'
+            "description":
+                "If you haven’t already, be sure to join the group and set your notification preference to Every Post, so you never miss out on any updates."
         }
     }
