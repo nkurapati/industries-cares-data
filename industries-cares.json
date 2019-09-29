@@ -92,7 +92,7 @@
         "themeImgSrc": "/resources/trail-bg.png",
         "footer": {
             "title": "Interested in volunteering? Got questions?",
-            "link: {
+            "link": {
                 "label": "#TakeItToChatter!",
                 "url": "#"
             },
