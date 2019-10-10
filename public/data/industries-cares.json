@@ -10,12 +10,12 @@
                 "title": "What happened in the past few months?",
                 "metrics": [
                     {
-                        "value": "1268+",
-                        "label": "Hr Volunteered"
-                    },
-                    {
                         "value": "143",
                         "label": "Employees Volunteered"
+                    },
+                    {
+                        "value": "1268+",
+                        "label": "Hours"
                     },
                     {
                         "value": "120+",
