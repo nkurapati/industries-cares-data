@@ -1,5 +1,5 @@
 {
-        "vol": "Vol I, Sep '19",
+        "vol": "Q3'19",
         "geeting": {
             "label": "Greetings, Industries Hyderabad Ohana!",
             "description":
@@ -10,12 +10,12 @@
                 "title": "What happened in the past few months?",
                 "metrics": [
                     {
-                        "value": "227+",
+                        "value": "1268+",
                         "label": "Hr Volunteered"
                     },
                     {
-                        "value": "$1000",
-                        "label": "Raised"
+                        "value": "143",
+                        "label": "Employees Volunteered"
                     },
                     {
                         "value": "120+",
@@ -27,37 +27,37 @@
                         "imgSrc": "/assets/1521203083Tree.jpg",
                         "title": "Tree Plantation",
                         "description":
-                            "Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum",
+                            "We had 20 volunteers plant a 100 saplings to support our mission to plant for the planet and save our ecosystem! ",
                         "link": {
-                            "label": "Read More",
-                            "url": "#"
+                            "label": "See Pics",
+                            "url": "https://drive.google.com/drive/folders/1a3vNSsQZQyzIKmVWlQx3Taccf81ofef3"
                         }
                     },
                     {
                         "imgSrc": "/assets/Samsung_Smart_Class_picture.jpeg",
-                        "title": "Computer Classes",
+                        "title": "Computer Lab Setup",
                         "description":
-                            "Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum",
+                            "We set up 2x24 switches to accommodate up to 48 desktops and provide 2x the internet connection!",
                         "link": {
-                            "label": "Sign Up",
-                            "url": "#"
+                            "label": "Read More",
+                            "url": "https://org62.lightning.force.com/lightning/r/0D50M00004See6ESAR/view"
                         }
                     },
                     {
                         "imgSrc": "/assets/hands_in.ts_177387006.jpg",
-                        "title": "Donation Drive",
+                        "title": "Computer Classes",
                         "description":
-                            "Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum",
+                            "Weekly programming basics classes to ~60 students from 9th grade. We will end the course with a hackathon!",
                         "link": {
                             "label": "Read More",
-                            "url": "#"
+                            "url": "https://org62.lightning.force.com/lightning/r/0D50M00004XIeBeSAL/view"
                         }
                     }
                 ],
                 "action": {
-                    "description": "Want to see more pictures of these events?",
-                    "label": "View on Drive",
-                    "url": "#"
+                    "description": "Interested in donating to Jyothi Vidyalaya",
+                    "label": "Click Here to Donate",
+                    "url": "https://org62.lightning.force.com/lightning/r/0D50M00004XEkccSAD/view"
                 }
             },
             {
@@ -65,21 +65,21 @@
                 "activities": [
                     {
                         "imgSrc": "/assets/00-e1498446216258.jpg",
-                        "title": "Menstrual Hygiene for Girls",
+                        "title": "Menstrual Care for Girls",
                         "description":
-                            "Creating an awareness about menstrual hygiene for adolescent girls. This will empower girls with knowledge and information and build the confidence to manage menstruation with safety and ...<Snip>"
+                            "Creating an awareness about menstrual care for adolescent girls. This will empower girls with knowledge to manage menstruation with safety"
                     },
                     {
                         "imgSrc": "/assets/careers-header.jpg",
                         "title": "Career Counselling",
                         "description":
-                            "Professional fulfillment lies at the intersection of what you love doing, what're you're good at, and what pays you well. In the coming weeks and months, we will be playing a small part in ...<snip>"
+                            "Creating an awareness among school children about various career options & igniting their passion."
                     },
                     {
                         "imgSrc": "/assets/Students.jpg",
                         "title": "Diwali Activities",
                         "description":
-                            "Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum. Lorem ipsum dolor sit amet. Lorem Ipsum"
+                            "This Diwali, we are conducting a slew of exciting activities with children of all classes (LKG to 10th)! "
                     }
                 ],
                 "action": {
