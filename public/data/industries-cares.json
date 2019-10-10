@@ -1,5 +1,5 @@
 {
-        "vol": "Q3'19",
+        "vol": "Vol I Q3'19",
         "geeting": {
             "label": "Greetings, Industries Hyderabad Ohana!",
             "description":
@@ -35,7 +35,7 @@
                     },
                     {
                         "imgSrc": "https://industries-cares-data.herokuapp.com/images/computer-lab.jpg",
-                        "title": "Computer Lab Setup",
+                        "title": "Lab Setup",
                         "description":
                             "We set up 2x24 switches to accommodate up to 48 desktops and provide 2x the internet connection!",
                         "link": {
@@ -65,7 +65,7 @@
                 "activities": [
                     {
                         "imgSrc": "https://industries-cares-data.herokuapp.com/images/menstrual-care.png",
-                        "title": "Menstrual Care for Girls",
+                        "title": "Menstrual Care",
                         "description":
                             "Creating an awareness about menstrual care for adolescent girls. This will empower girls with knowledge to manage menstruation with safety"
                     },
