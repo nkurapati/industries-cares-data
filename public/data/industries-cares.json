@@ -24,7 +24,7 @@
                 ],
                 "activities": [
                     {
-                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/tree-plantation.png",
+                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/tree-plantation.jpg",
                         "title": "Tree Plantation",
                         "description":
                             "We had 20 volunteers plant a 100 saplings to support our mission to plant for the planet and save our ecosystem! ",
@@ -64,19 +64,19 @@
                 "title": "What are we looking at ahead?",
                 "activities": [
                     {
-                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/menstrual-care.png",
+                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/menstrual-care.jpg",
                         "title": "Menstrual Care",
                         "description":
                             "Creating an awareness about menstrual care for adolescent girls. This will empower girls with knowledge to manage menstruation with safety"
                     },
                     {
-                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/career-planing.png",
+                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/career-planing.jpg",
                         "title": "Career Counselling",
                         "description":
                             "Creating an awareness among school children about various career options & igniting their passion."
                     },
                     {
-                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/diwali.png",
+                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/diwali.jpg",
                         "title": "Diwali Activities",
                         "description":
                             "This Diwali, we are conducting a slew of exciting activities with children of all classes (LKG to 10th)! "
