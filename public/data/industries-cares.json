@@ -24,7 +24,7 @@
                 ],
                 "activities": [
                     {
-                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/Vol1-tree-plantation.png",
+                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/tree-plantation.png",
                         "title": "Tree Plantation",
                         "description":
                             "We had 20 volunteers plant a 100 saplings to support our mission to plant for the planet and save our ecosystem! ",
@@ -34,7 +34,7 @@
                         }
                     },
                     {
-                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/Vol1-computer-lab.jpg",
+                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/computer-lab.jpg",
                         "title": "Lab Setup",
                         "description":
                             "We set up 2x24 switches to accommodate up to 48 desktops and provide 2x the internet connection!",
@@ -44,7 +44,7 @@
                         }
                     },
                     {
-                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/Vol1-computer-classes.jpg",
+                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/computer-classes.jpg",
                         "title": "Computer Classes",
                         "description":
                             "Weekly programming basics classes to ~60 students from 9th grade. We will end the course with a hackathon!",
@@ -64,19 +64,19 @@
                 "title": "What are we looking at ahead?",
                 "activities": [
                     {
-                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/Vol1-menstrual-care.png",
+                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/menstrual-care.png",
                         "title": "Menstrual Care",
                         "description":
                             "Creating an awareness about menstrual care for adolescent girls. This will empower girls with knowledge to manage menstruation with safety"
                     },
                     {
-                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/Vol1-career-planing.png",
+                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/career-planing.png",
                         "title": "Career Counselling",
                         "description":
                             "Creating an awareness among school children about various career options & igniting their passion."
                     },
                     {
-                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/Vol1-diwali.png",
+                        "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/diwali.png",
                         "title": "Diwali Activities",
                         "description":
                             "This Diwali, we are conducting a slew of exciting activities with children of all classes (LKG to 10th)! "
@@ -89,7 +89,6 @@
                 }
             }
         ],
-        "themeImgSrc": "/resources/trail-bg.png",
         "footer": {
             "title": "Interested in volunteering? Got questions?",
             "link": {
