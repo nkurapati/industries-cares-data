@@ -1,9 +1,9 @@
 {
-        "vol": "Vol I, Q3 '19",
+        "vol": "Vol 1 | Issue 1 | Q3 2019",
         "geeting": {
             "label": "Greetings, Industries Hyderabad Ohana!",
             "description":
-                "We are delighted to present the first volume of Industries Cares newsletter! This volume presents a recap of Industries VTO events and a glimpse of what’s to come!"
+                "We're delighted to present the very first issue of the Industries Cares newsletter. This issue recaps recent giving back activities by Industries Hyderabad and presents a glimpse of what's in store!"
         },
         "sections": [
             {
@@ -14,11 +14,11 @@
                         "label": "Employees Volunteered"
                     },
                     {
-                        "value": "1268+",
-                        "label": "Hours"
+                        "value": "1260+",
+                        "label": "Hours Logged"
                     },
                     {
-                        "value": "120+",
+                "value": "57",
                         "label": "Kids Impacted"
                     }
                 ],
@@ -55,8 +55,8 @@
                     }
                 ],
                 "action": {
-                    "description": "Interested in donating to Jyothi Vidyalaya",
-                    "label": "Click Here to Donate",
+                    "description": "Give what you can and change a child's life",
+                    "label": "Donate Now!",
                     "url": "https://org62.lightning.force.com/lightning/r/0D50M00004XEkccSAD/view"
                 }
             },
@@ -83,19 +83,19 @@
                     }
                 ],
                 "action": {
-                    "description": "Interested in Volunteering for one of these?",
-                    "label": "Sign Up",
-                    "url": "#"
+                    "description": "Interested in volunteering for any of these?",
+                    "label": "Sign Up Now!",
+                    "url": "https://powerofus.force.com/vfx/s/volunteer-activity/a1D1E000002UQXtUAO?tabset-3b46d=f7647"
                 }
             }
         ],
         "footer": {
-            "title": "Interested in volunteering? Got questions?",
+            "title": "Got questions?",
             "link": {
                 "label": "#TakeItToChatter!",
                 "url": "https://org62.lightning.force.com/lightning/r/CollaborationGroup/0F90M000000DUxUSAW/view"
             },
             "description":
-                "If you haven’t already, be sure to join the group and set your notification preference to Every Post, so you never miss out on any updates."
+                "And if you haven’t already, be sure to join the group and set your notification preference to Every Post, so you never miss out on any updates."
         }
     }
