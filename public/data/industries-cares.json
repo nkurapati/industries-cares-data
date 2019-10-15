@@ -37,7 +37,7 @@
                         "imgSrc": "https://industries-cares-data.herokuapp.com/images/vol1/computer-lab.jpg",
                         "title": "Lab Setup",
                         "description":
-                            "We set up 2x24 switches to accommodate up to 48 desktops and provide 2x the internet connection!",
+                            "Talk about leveling up a school's tech infrastructure: we set up 2x24 switches to accommodate up to 48 desktops and provide 2x the internet connection!",
                         "link": {
                             "label": "Read More",
                             "url": "https://org62.lightning.force.com/lightning/r/0D50M00004See6ESAR/view"
@@ -84,7 +84,7 @@
                 ],
                 "action": {
                     "description": "Interested in volunteering for any of these?",
-                    "label": "Sign Up Now!",
+                    "label": "Sign Up Now",
                     "url": "https://powerofus.force.com/vfx/s/volunteer-activity/a1D1E000002UQXtUAO?tabset-3b46d=f7647"
                 }
             }
